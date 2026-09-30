@@ -166,10 +166,6 @@ java -cp out ClinicaPetMain
 Escolha uma opção:
 ```
 
-> 💡 **Dica:** adicione aqui um print ou GIF do programa rodando (`![Demo](docs/demo.gif)`). Visual chama muita atenção de quem está avaliando o repositório.
-
----
-
 ## 📂 Estrutura do projeto
 
 ```
@@ -212,6 +208,3 @@ Escolha uma opção:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alefe-William)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/álefe-soares-6739a5436)
 
----
-
-⭐ Se este projeto foi útil ou interessante, deixe uma estrela no repositório!
